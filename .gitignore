@@ -1,0 +1,6 @@
+build/
+out/
+*.class
+nbproject/private/
+.idea/workspace.xml
+.DS_Store
